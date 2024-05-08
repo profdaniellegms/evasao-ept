@@ -1,0 +1,20 @@
+1. Introdução
+    Problema (O QUE vc vai resolver)
+    Objetivo Geral (O que vc vai fazer pra resolver o problema)
+    Objetivos Específicos (Etapas pro objetivo Geral)
+    Justificativa (Relevância)
+
+2. Fundamentação Teórica
+    Do problema 
+    Da técnica
+
+3. Metodologia
+    COMO resolver o problema
+
+4. Resultados e Discussão
+    DESCREVER OS PERRENGUES
+    MOSTRAR E EXPLICAR OS RESULTADOS
+
+5. Conclusão
+    Resumo
+    Trabalhos Futuros
