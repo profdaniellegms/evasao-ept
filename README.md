@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Identificar e prever os fatores de impacto na evasão escolar de alunos da Rede Federal de Educação Profissional, Científica e Tecnológica (RFEPCT) matriculados nos cursos do eixo tecnológico Informação e Comunicação, através de um Modelo Preditivo de Classificação Binária obtido por um algoritmo de Aprendizado de Máquina Supervisionado.
+Identificar os fatores de impacto e sua relevância na evasão escolar de alunos da Rede Federal de Educação Profissional, Científica e Tecnológica (RFEPCT) matriculados nos cursos do eixo tecnológico Informação e Comunicação, através de um Modelo Preditivo de Classificação Binária obtido através de um algoritmo de Aprendizado de Máquina Supervisionado.
 
 ## Fontes de dados
 
