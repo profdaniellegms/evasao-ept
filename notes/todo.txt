@@ -1,0 +1,7 @@
+1) Estudo de correlação entre atributos e seleção de atributos
+2) Transformar carga horária e fator esforço curso em intervalos de valores
+3) Aplicar transformadas em subset dos dados qualitativos
+4) Aplicar KNN para preencher Renda e Etnia onde não foi possível preencher na limpeza
+5) Aplicar transformadas em todo o dataset, exceto coluna alvo
+6) Selecionar e treinar algoritmos
+7) Aplicar métricas de avaliação
