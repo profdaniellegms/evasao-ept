@@ -1,0 +1,3 @@
+Usar Apriori para descobrir as regras de associação e minerar as regras dos fatores que impactam na evasão. 
+Usar Classificadores Binários para construir modelo preditivo que diz se o aluno irá ou não evadir.
+Fazer deploy do modelo em app na nuvem -> Pós Graduação.
