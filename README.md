@@ -1,4 +1,4 @@
-# Estudo da evasão escolar nos cursos do eixo de Informação e Comunicação da RFEPCT
+# Estudo da evasão escolar nos cursos do eixo de Informação e Comunicação da RFEPCT (em andamento)
 
 ## Objetivo
 
