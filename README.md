@@ -27,11 +27,7 @@ As etapas deste trabalho são aquelas definidas por Fayyad et al. (1996), adapta
 
 ## Algoritmos testados
 
-- SVM (Máquinas de Vetores de Suporte)
-- KNN (K Vizinhos mais Próximos)
-- Regressão Logística
 - Árvores de Decisão
-- MLP (Perceptron Multicamadas)
 
 ## Métricas de Avaliação
 
